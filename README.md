@@ -11,10 +11,10 @@ This Arduino sketch animates a line with two endpoints that bounce around the sc
 - **High Performance**: Runs at maximum frame rate with no artificial delays
 - **Dynamic Movement**: Random starting positions and velocity changes on bounces
 
+**📺 Watch it in action**: [CYD Line Bounce Demo](https://www.youtube.com/watch?v=ihmrLsRpidA)
+
 ![CYD Bouncing Line screenshot](https://github.com/acceleroto/CYD_Bouncing_Line_Demo/blob/main/screenshots/CYD_bouncing_lines_screengrab1.png "CYD Bouncing Line Demo")
 
-
-**📺 Watch it in action**: [CYD Line Bounce Demo](https://www.youtube.com/watch?v=ihmrLsRpidA)
 
 ## 🖥️ Hardware Requirements
 
