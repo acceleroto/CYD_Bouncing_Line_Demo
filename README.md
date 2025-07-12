@@ -11,6 +11,8 @@ This Arduino sketch animates a line with two endpoints that bounce around the sc
 - **High Performance**: Runs at maximum frame rate with no artificial delays
 - **Dynamic Movement**: Random starting positions and velocity changes on bounces
 
+**📺 Watch it in action**: [CYD Line Bounce Demo](https://www.youtube.com/watch?v=ihmrLsRpidA)
+
 ## 🖥️ Hardware Requirements
 
 - **Display**: Cheap Yellow Display (CYD) ESP32-2432S028R
