@@ -31,7 +31,7 @@ This Arduino sketch animates a line with two endpoints that bounce around the sc
 - **Smooth Movement**: All trail lines move fluidly with the main line
 - **Configurable Spacing**: Adjustable trail spacing via `TRAIL_SPACING`
 
-### Animation Physics
+### Animation "Physics"
 - **Random Bounces**: Velocity changes randomly on boundary collisions
 - **Speed Range**: Configurable minimum/maximum velocities
 - **Boundary Detection**: Proper collision detection and position correction
@@ -63,9 +63,9 @@ uint16_t trailColors[TRAIL_LENGTH] = {
 ## 🚀 Installation
 
 1. **Install Libraries**: Ensure TFT_eSPI library is installed with the correct User_Setup.h file. I followed this to get my CYD running the first time with Arduino: https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/
-2. **Configure TFT_eSPI**: Set up the library for your specific display
+2. **Configure TFT_eSPI**: Set up the library & display settings in CYD_line_bounce.ino for your specific display
 3. **Upload Code**: Compile and upload to your ESP32
-4. **Enjoy**: Watch the bouncing line animation!
+4. **Enjoy**: Watch the bouncing lines...straight from the 1980's
 
 ## 🔧 Technical Details
 
