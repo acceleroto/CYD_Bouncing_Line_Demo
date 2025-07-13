@@ -62,11 +62,10 @@ uint16_t trailColors[TRAIL_LENGTH] = {
 
 ## 🚀 Installation
 
-1. **Connect Hardware**: Wire your CYD display to the ESP32
-2. **Install Libraries**: Ensure TFT_eSPI library is installed with the correct User_Setup.h file. I followed this to get my CYD running the firt time with Arduino: https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/
-3. **Configure TFT_eSPI**: Set up the library for your specific display
-4. **Upload Code**: Compile and upload to your ESP32
-5. **Enjoy**: Watch the bouncing line animation!
+1. **Install Libraries**: Ensure TFT_eSPI library is installed with the correct User_Setup.h file. I followed this to get my CYD running the first time with Arduino: https://randomnerdtutorials.com/cheap-yellow-display-esp32-2432s028r/
+2. **Configure TFT_eSPI**: Set up the library for your specific display
+3. **Upload Code**: Compile and upload to your ESP32
+4. **Enjoy**: Watch the bouncing line animation!
 
 ## 🔧 Technical Details
 
@@ -100,7 +99,7 @@ Modify the `trailColors` array to create different gradient effects:
 
 ## 📝 Code Notes
 
-This project was created as a "vibe coding" experiment with Cursor AI. The code is functional but not optimized for production use. It serves as a rough starting point for TFT display animations and can be extended with additional features.
+This project was created as a vibe coding experiment with Cursor AI. The code is functional but not optimized for production use. It serves as a rough starting point for TFT display animations and can be extended with additional features.
 
 ## 🤝 Contributing
 
